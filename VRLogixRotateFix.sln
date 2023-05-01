@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{57cdb1e5-3cd6-42ac-9a1a-64f7dcc58858}") = "VRLogixRotateFix", "VRLogixRotateFix.csproj", "{57cdb1e5-3cd6-42ac-9a1a-64f7dcc58858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57cdb1e5-3cd6-42ac-9a1a-64f7dcc58858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57cdb1e5-3cd6-42ac-9a1a-64f7dcc58858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57cdb1e5-3cd6-42ac-9a1a-64f7dcc58858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57cdb1e5-3cd6-42ac-9a1a-64f7dcc58858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57cdb1e5-3cd6-42ac-9a1a-64f7dcc58858}
+	EndGlobalSection
+EndGlobal
