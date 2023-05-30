@@ -1,4 +1,3 @@
-using BaseX;
 using HarmonyLib;
 using NeosModLoader;
 using FrooxEngine;
@@ -10,7 +9,7 @@ namespace NMLUpdater
     {
         public override string Name => "VRLogixRotateFix";
         public override string Author => "AlexW-578";
-        public override string Version => "1.0.0";
+        public override string Version => "1.0.1";
         public override string Link => "https://github.com/AlexW-578/VRLogixRotateFix";
 
         private static ModConfiguration Config;
