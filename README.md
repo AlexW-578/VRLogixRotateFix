@@ -1,6 +1,8 @@
 # VR Logix Rotation Fix
 A [NeosModLoader](https://github.com/neos-modding-group/NeosModLoader) mod for [Neos VR](https://neos.com/) that rotates spawned logix nodes to use the same rotation as the user when in VR.<br>
 
+Might have a look at creating a pull request to [Logix Utils](https://github.com/badhaloninja/LogixUtils/tree/master) if i can get my head around how they do their patches.
+
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/neos-modding-group/NeosModLoader).
