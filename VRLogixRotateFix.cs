@@ -34,9 +34,7 @@ namespace NMLUpdater
             {
                 if (Config.GetValue(Enabled) && __instance.InputInterface.VR_Active)
                 {
-                    node.GlobalRotation = new floatQ(__instance.LocalUserRoot.Slot.GlobalRotation.x,
-                        __instance.Slot.LocalRotation.y, __instance.LocalUserRoot.Slot.GlobalRotation.z,
-                        __instance.LocalUserRoot.Slot.GlobalRotation.w);
+                    node.Up = __instance.Slot.ActiveUserRoot.Slot.Up;
                 }
             }
         }
